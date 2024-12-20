@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SamoPinter/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://samopinter.github.io/blog-preview-card-main/)
+- Solution URL: [My solution](https://github.com/SamoPinter/blog-preview-card-main)
+- Live Site URL: [My url](https://samopinter.github.io/blog-preview-card-main/)
 
 ## My process
 
